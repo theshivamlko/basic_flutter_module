@@ -5,3 +5,27 @@ class Calculation {
     return Math.sqrt(num);
   }
 }
+
+void main() {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  print(list.runtimeType);
+  print(list.length);
+}
+
