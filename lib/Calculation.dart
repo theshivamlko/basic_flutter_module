@@ -8,24 +8,5 @@ class Calculation {
 
 void main() {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  print(list.runtimeType);
-  print(list.length);
 }
 
