@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 
-const platform = const MethodChannel('com.example.flutter_module.host');
+const platform = const MethodChannel('com.example.flutter_module');
 String counter = '';
 Future<String?> getFromNative(MethodCall methodCall) async {
   debugPrint("Future getFromNative");
